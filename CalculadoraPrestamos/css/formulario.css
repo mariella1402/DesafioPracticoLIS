@@ -1,0 +1,55 @@
+body {
+  background-color: #292929;
+  margin: 0;
+}
+label {
+  margin-right: 40px;
+}
+select {
+  padding: 5px;
+  font-size: 18px;
+  border-radius: 10px;
+  margin: 4px;
+}
+input {
+  padding: 5px;
+  font-size: 17px;
+  text-align: center;
+  border-radius: 10px;
+}
+.title {
+  position: absolute;
+  text-align: center;
+  background-color: #1b1b1b;
+  color: white;
+  font-size: 20px;
+  width: 100%;
+  top: 0;
+}
+.mainBox {
+  margin-top: 150px;
+  background-color: #808080;
+  width: 60%;
+  height: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  font-size: 28px;
+  border-radius: 20px;
+}
+.calcularBox {
+  text-align: center;
+}
+.calcular {
+  background-color: #ffa31a;
+  margin: 20px;
+  padding: 20px;
+  font-size: 22px;
+  font-weight: bold;
+}
